@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Victoria 👋
 
-<!--
-**victoriasolyedid/victoriasolyedid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year Systems Engineering student at UTN
+💻 Software Developer at EY  
+📍 Argentina
 
-Here are some ideas to get you started:
+I'm looking to gain hands-on experience in software development. I enjoy working on backend projects, learning from others, and improving my skills through real world challenges. I like working in teams and I'm always open to learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![My Skills](https://skillicons.dev/icons?i=java,spring,go,mysql,postgres)
+
+- Java & Spring Boot  
+- SQL & T-SQL  
+- Go  
+
